@@ -1,0 +1,15 @@
+C:\c_sharp\BookTheShow\BookTheShowBLL\bin\Debug\netcoreapp3.1\BookTheShowBLL.deps.json
+C:\c_sharp\BookTheShow\BookTheShowBLL\bin\Debug\netcoreapp3.1\BookTheShowBLL.dll
+C:\c_sharp\BookTheShow\BookTheShowBLL\bin\Debug\netcoreapp3.1\BookTheShowBLL.pdb
+C:\c_sharp\BookTheShow\BookTheShowBLL\obj\Debug\netcoreapp3.1\BookTheShowBLL.csproj.AssemblyReference.cache
+C:\c_sharp\BookTheShow\BookTheShowBLL\obj\Debug\netcoreapp3.1\BookTheShowBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp\BookTheShow\BookTheShowBLL\obj\Debug\netcoreapp3.1\BookTheShowBLL.AssemblyInfoInputs.cache
+C:\c_sharp\BookTheShow\BookTheShowBLL\obj\Debug\netcoreapp3.1\BookTheShowBLL.AssemblyInfo.cs
+C:\c_sharp\BookTheShow\BookTheShowBLL\obj\Debug\netcoreapp3.1\BookTheShowBLL.csproj.CoreCompileInputs.cache
+C:\c_sharp\BookTheShow\BookTheShowBLL\obj\Debug\netcoreapp3.1\BookTheShowBLL.dll
+C:\c_sharp\BookTheShow\BookTheShowBLL\obj\Debug\netcoreapp3.1\BookTheShowBLL.pdb
+C:\c_sharp\BookTheShow\BookTheShowBLL\bin\Debug\netcoreapp3.1\BookTheShowDAL.dll
+C:\c_sharp\BookTheShow\BookTheShowBLL\bin\Debug\netcoreapp3.1\BookTheShowEntity.dll
+C:\c_sharp\BookTheShow\BookTheShowBLL\bin\Debug\netcoreapp3.1\BookTheShowDAL.pdb
+C:\c_sharp\BookTheShow\BookTheShowBLL\bin\Debug\netcoreapp3.1\BookTheShowEntity.pdb
+C:\c_sharp\BookTheShow\BookTheShowBLL\obj\Debug\netcoreapp3.1\BookTheShowBLL.csproj.CopyComplete
